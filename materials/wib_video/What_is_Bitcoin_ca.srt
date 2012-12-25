@@ -1,0 +1,288 @@
+﻿1
+00:00:00,210 --> 00:00:01,546
+Que es Bitcoin?
+
+2
+00:00:01,609 --> 00:00:02,901
+Bitcoin es la primera
+
+3
+00:00:02,902 --> 00:00:04,968
+moneda digital descentralitzada.
+
+4
+00:00:05,000 --> 00:00:06,138
+Els bitcoins son monedes digitals
+
+5
+00:00:06,138 --> 00:00:07,654
+que pots enviar
+a través d'Internet.
+
+6
+00:00:07,951 --> 00:00:09,333
+Comparat amb la resta
+d'alternatives,
+
+7
+00:00:09,333 --> 00:00:11,388
+Bitcoin té nombrosos
+avantatges.
+
+8
+00:00:11,492 --> 00:00:12,523
+Els bitcoins son transferits
+
+9
+00:00:12,545 --> 00:00:13,304
+directament de persona
+
+10
+00:00:13,312 --> 00:00:13,984
+a persona
+
+11
+00:00:13,992 --> 00:00:14,744
+a través de la xarxa
+
+12
+00:00:14,759 --> 00:00:15,797
+sense pasar
+per un banc
+
+13
+00:00:15,798 --> 00:00:16,880
+o un altre intermediari.
+
+14
+00:00:17,145 --> 00:00:18,786
+Aixó significa que les comissions
+són molt més petites,
+
+15
+00:00:18,831 --> 00:00:20,316
+pots utilitzar-ho
+a qualsevol país,
+
+16
+00:00:20,339 --> 00:00:21,706
+el teu compte no pot
+ser congelat
+
+17
+00:00:21,792 --> 00:00:22,893
+i no hi han
+prerequisits
+
+18
+00:00:22,933 --> 00:00:23,950
+o límits arbitraris.
+
+19
+00:00:25,952 --> 00:00:27,585
+Mirem com funciona!
+
+20
+00:00:27,795 --> 00:00:29,880
+Els bitcoins son generats
+a tot Internet
+
+21
+00:00:29,935 --> 00:00:31,479
+per cualsevol
+amb un programa gratuït
+
+22
+00:00:31,513 --> 00:00:33,333
+anomenat "Bitcoin miner".
+
+23
+00:00:33,445 --> 00:00:35,224
+Crear bitcoins requereix
+una certa quantitat de treball
+
+24
+00:00:35,239 --> 00:00:36,694
+per cada bloc de monedes.
+
+25
+00:00:36,968 --> 00:00:38,250
+Aquesta quantitat
+s'adjusta automaticament
+
+26
+00:00:38,273 --> 00:00:39,249
+per la xarxa
+
+27
+00:00:39,273 --> 00:00:40,724
+per tal que els bitcoins
+sempre siguin creats
+
+28
+00:00:40,740 --> 00:00:43,310
+a un ratio predictible
+y limitat.
+
+29
+00:00:44,146 --> 00:00:46,370
+Els teus bitcoins es guardan
+a la teva cartera digital
+
+30
+00:00:46,503 --> 00:00:49,096
+que et resultarà familiar
+si utilitzes banca digital.
+
+31
+00:00:49,222 --> 00:00:50,409
+Quan transfereixes bitcoins,
+
+32
+00:00:50,456 --> 00:00:52,292
+una firma electrònica
+es afegida.
+
+33
+00:00:52,550 --> 00:00:53,414
+Pasats uns minuts
+
+34
+00:00:53,446 --> 00:00:55,464
+la transacció es
+verificada per un "miner"
+
+35
+00:00:55,566 --> 00:00:57,071
+i es permanent i
+anonimament enmagatzemada
+
+36
+00:00:57,072 --> 00:00:58,237
+per la xarxa.
+
+37
+00:00:58,301 --> 00:01:00,652
+El software de Bitcoin es
+completament obert
+
+38
+00:01:00,704 --> 00:01:02,439
+i qualsevol pot
+revisar el codi.
+
+39
+00:01:02,924 --> 00:01:04,541
+Bitcoin està
+canviant les finances
+
+40
+00:01:04,564 --> 00:01:06,607
+de la mateixa manera que la web
+ha canviat el periodisme.
+
+41
+00:01:06,818 --> 00:01:08,014
+Quan qualsevol
+te accés
+
+42
+00:01:08,015 --> 00:01:09,060
+al mercat global,
+
+43
+00:01:09,146 --> 00:01:10,966
+floreixen grans idees.
+
+44
+00:01:11,624 --> 00:01:13,198
+Mirem
+alguns exemples
+
+45
+00:01:13,206 --> 00:01:15,069
+de com els bitcoins
+s'estan utilitzan avui en dia:
+
+46
+00:01:15,201 --> 00:01:16,895
+Pots comprar
+videojocs,
+
+47
+00:01:16,913 --> 00:01:17,676
+regals,
+
+48
+00:01:17,811 --> 00:01:18,474
+llibres,
+
+49
+00:01:18,685 --> 00:01:19,365
+servidors
+
+50
+00:01:19,623 --> 00:01:21,411
+i mitjons d'alpaca.
+
+51
+00:01:21,498 --> 00:01:23,200
+Existeixen diverses cases de canvi
+
+52
+00:01:23,208 --> 00:01:24,411
+on pots intercanviar
+els teus bitcoins
+
+53
+00:01:24,427 --> 00:01:24,990
+per dòlars,
+
+54
+00:01:24,997 --> 00:01:25,466
+euros
+
+55
+00:01:25,490 --> 00:01:25,997
+i més.
+
+56
+00:01:26,295 --> 00:01:27,394
+els bitcoins son
+una gran manera
+
+57
+00:01:27,410 --> 00:01:29,034
+per que petits negocis
+i autònoms
+
+58
+00:01:29,050 --> 00:01:30,146
+rebin publicitat.
+
+59
+00:01:30,388 --> 00:01:32,346
+No costa res
+començar a acceptar-los,
+
+60
+00:01:32,378 --> 00:01:33,713
+no hi ha càrrecs ni comissions
+
+61
+00:01:33,745 --> 00:01:35,419
+i rebràs
+negoci adicional
+
+62
+00:01:35,420 --> 00:01:36,774
+de la economia Bitcoin.
+
+63
+00:01:36,985 --> 00:01:39,296
+Pels teus primers bitcoins i
+més informació, visita:
+
+64
+00:01:39,312 --> 00:01:41,335
+weusecoins.com

@@ -1,0 +1,289 @@
+1
+00:00:00,210 --> 00:00:01,546
+Hvad er Bitcoin?
+
+2
+00:00:01,609 --> 00:00:02,901
+Bitcoin er den første
+
+3
+00:00:02,902 --> 00:00:04,968
+decentraliserede digitale valuta.
+
+4
+00:00:05,000 --> 00:00:06,138
+Bitcoins er digitale mønter
+
+5
+00:00:06,138 --> 00:00:07,654
+du kan sende
+over internettet.
+
+6
+00:00:07,951 --> 00:00:09,333
+Sammenlignet med
+alternativerne,
+
+7
+00:00:09,333 --> 00:00:11,388
+har Bitcoins en række
+fordele.
+
+8
+00:00:11,492 --> 00:00:12,523
+Bitcoins overføres
+
+9
+00:00:12,545 --> 00:00:13,304
+direkte fra person
+
+10
+00:00:13,312 --> 00:00:13,984
+til person
+
+11
+00:00:13,992 --> 00:00:14,744
+via nettet
+
+12
+00:00:14,759 --> 00:00:15,797
+uden at gå
+gennem en bank
+
+13
+00:00:15,798 --> 00:00:16,880
+eller et clearingkontor.
+
+14
+00:00:17,145 --> 00:00:18,786
+Det betyder, at gebyrerne
+er meget lavere,
+
+15
+00:00:18,831 --> 00:00:20,316
+at du kan bruge dem
+i alle lande,
+
+16
+00:00:20,339 --> 00:00:21,706
+din konto kan
+ikke fryses,
+
+17
+00:00:21,792 --> 00:00:22,893
+og der er ingen krav
+
+18
+00:00:22,933 --> 00:00:23,950
+eller arbitrære grænser.
+
+19
+00:00:25,952 --> 00:00:27,585
+Lad os se,
+hvordan det virker!
+
+20
+00:00:27,795 --> 00:00:29,880
+Bitcoins genereres
+overalt på internettet
+
+21
+00:00:29,935 --> 00:00:31,479
+af enhver, der
+kører et gratis program
+
+22
+00:00:31,513 --> 00:00:33,333
+kaldet en Bitcoin-miner.
+
+23
+00:00:33,445 --> 00:00:35,224
+At minere kræver en
+bestemt mængde arbejde
+
+24
+00:00:35,239 --> 00:00:36,694
+for hver blok af mønter.
+
+25
+00:00:36,968 --> 00:00:38,250
+Denne mængde
+justeres automatisk
+
+26
+00:00:38,273 --> 00:00:39,249
+af netværket,
+
+27
+00:00:39,273 --> 00:00:40,724
+således Bitcoins
+altid skabes
+
+28
+00:00:40,740 --> 00:00:43,310
+i et forudsigeligt
+og begrænset tempo.
+
+29
+00:00:44,146 --> 00:00:46,370
+Dine Bitcoins opbevares
+i din digitale pung,
+
+30
+00:00:46,503 --> 00:00:49,096
+som måske ser bekendt ud,
+hvis du allerede bruger netbank.
+
+31
+00:00:49,222 --> 00:00:50,409
+Når du overfører Bitcoins,
+
+32
+00:00:50,456 --> 00:00:52,292
+tilføjes en
+elektronisk signatur.
+
+33
+00:00:52,550 --> 00:00:53,414
+Efter et par minutter
+
+34
+00:00:53,446 --> 00:00:55,464
+bliver transaktionen
+bekræftet af en minør
+
+35
+00:00:55,566 --> 00:00:57,071
+og permanent og
+anonymt gemt
+
+36
+00:00:57,072 --> 00:00:58,237
+i netværket.
+
+37
+00:00:58,301 --> 00:01:00,652
+Bitcoin-softwaren er
+fuldstændig open source,
+
+38
+00:01:00,704 --> 00:01:02,439
+og enhver kan
+tjekke koden efter.
+
+39
+00:01:02,924 --> 00:01:04,541
+Bitcoin er ved at 
+ændre finansverdenen,
+
+40
+00:01:04,564 --> 00:01:06,607
+på samme måde som internettet 
+ændrede udgivelse af eget materiale.
+
+41
+00:01:06,818 --> 00:01:08,014
+Når alle
+har adgang
+
+42
+00:01:08,015 --> 00:01:09,060
+til et globalt marked,
+
+43
+00:01:09,146 --> 00:01:10,966
+blomstrer gode idéer.
+
+44
+00:01:11,624 --> 00:01:13,198
+Lad os se
+nogle eksempler på,
+
+45
+00:01:13,206 --> 00:01:15,069
+hvordan Bitcoins
+allerede bruges i dag:
+
+46
+00:01:15,201 --> 00:01:16,895
+Du kan købe
+computerspil,
+
+47
+00:01:16,913 --> 00:01:17,676
+gaver,
+
+48
+00:01:17,811 --> 00:01:18,474
+bøger,
+
+49
+00:01:18,685 --> 00:01:19,365
+servere
+
+50
+00:01:19,623 --> 00:01:21,411
+og alpaca-sokker.
+
+51
+00:01:21,498 --> 00:01:23,200
+Der findes adskillige valutabørser
+
+52
+00:01:23,208 --> 00:01:24,411
+hvor du kan handle
+dine Bitcoins
+
+53
+00:01:24,427 --> 00:01:24,990
+for dollar,
+
+54
+00:01:24,997 --> 00:01:25,466
+euro
+
+55
+00:01:25,490 --> 00:01:25,997
+med mere.
+
+56
+00:01:26,295 --> 00:01:27,394
+Bitcoins er
+en rigtig god måde
+
+57
+00:01:27,410 --> 00:01:29,034
+for små virksomheder
+og freelancere
+
+58
+00:01:29,050 --> 00:01:30,146
+at blive bemærket på.
+
+59
+00:01:30,388 --> 00:01:32,346
+Det koster ingenting at
+begynde at tage imod dem,
+
+60
+00:01:32,378 --> 00:01:33,713
+der er ingen tilbageførsler
+eller gebyrer,
+
+61
+00:01:33,745 --> 00:01:35,419
+og du får
+flere kunder
+
+62
+00:01:35,420 --> 00:01:36,774
+fra Bitcoin-økonomien.
+
+63
+00:01:36,985 --> 00:01:39,296
+Få dine første Bitcoins samt
+mere information på:
+
+64
+00:01:39,312 --> 00:01:41,335
+weusecoins.com

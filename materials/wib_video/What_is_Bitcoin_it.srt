@@ -1,0 +1,223 @@
+0:00:00.210,0:00:01.546
+Che cos'e' Bitcoin?
+
+0:00:01.609,0:00:02.901
+Bitcoin e' la prima
+
+0:00:02.902,0:00:04.968
+moneta digitale decentralizzata.
+
+0:00:05.000,0:00:06.138
+I Bitcoin sono soldi digitali
+
+0:00:06.138,0:00:07.654
+Puoi inviarli
+attraverso Internet.
+
+0:00:07.951,0:00:09.333
+Al confronto con
+le altre monete,
+
+0:00:09.333,0:00:11.388
+Bitcoin ha numerosi
+vantaggi.
+
+0:00:11.492,0:00:12.523
+I Bitcoin sono trasferiti
+
+0:00:12.545,0:00:13.304
+direttamente da persona
+
+0:00:13.312,0:00:13.984
+a persona
+
+0:00:13.992,0:00:14.744
+via rete
+
+0:00:14.759,0:00:15.797
+senza passare
+per una banca
+
+0:00:15.798,0:00:16.880
+o camera di compensazione.
+
+0:00:17.145,0:00:18.786
+Questo significa che i
+costi sono assai miniri,
+
+0:00:18.831,0:00:20.316
+puoi usarli in
+tutte le nazioni,
+
+0:00:20.339,0:00:21.706
+il tuo account non
+puo' essere congelato
+
+0:00:21.792,0:00:22.893
+e non ci sono
+prerequisiti
+
+0:00:22.933,0:00:23.950
+o limiti arbitrari.
+
+0:00:25.952,0:00:27.585
+Vediamo come funziona!
+
+0:00:27.795,0:00:29.880
+I Bitcoin sono generati
+tutti attraverso Internet
+
+0:00:29.935,0:00:31.479
+da chiunque esegua
+un'applicazione gratuita
+
+0:00:31.513,0:00:33.333
+chiamata minatore Bitcoin.
+
+0:00:33.445,0:00:35.224
+Minare richiede una certa
+quantita' di lavoro
+
+0:00:35.239,0:00:36.694
+per ogni blocco di monete.
+
+0:00:36.968,0:00:38.250
+Questa quantita' viene
+aggiustata automaticamente
+
+0:00:38.273,0:00:39.249
+dal network.
+
+0:00:39.273,0:00:40.724
+Questi Bitcoin sono
+sempre creati
+
+0:00:40.740,0:00:43.310
+secondo un limite
+rateale prestabilito.
+
+0:00:44.146,0:00:46.370
+I tuoi Bitcoin si trovano
+nel tuo portamonete digitale.
+
+0:00:46.503,0:00:49.096
+che ti sembrera' famigliare
+se gia' usi le banche online.
+
+0:00:49.222,0:00:50.409
+Quando trasferisci Bitcoin,
+
+0:00:50.456,0:00:52.292
+viene aggiunta
+una firma digitale.
+
+0:00:52.550,0:00:53.414
+Dopo pochi minuti
+
+0:00:53.446,0:00:55.464
+il trasferimento viene
+verificarto da un minatore
+
+0:00:55.566,0:00:57.071
+viene poi salvato permanentemente
+e anonimamente
+
+0:00:57.072,0:00:58.237
+sul network.
+
+0:00:58.301,0:01:00.652
+Il software Bitcoin e'
+completamente open source
+
+0:01:00.704,0:01:02.439
+e chiunque puo'
+verificarne il codice.
+
+0:01:02.924,0:01:04.541
+Bitcoin cambia
+la finanza
+
+0:01:04.564,0:01:06.607
+nello stesso modo in cui il web
+ha cambiato l'editoria.
+
+0:01:06.818,0:01:08.014
+Quando tutti
+hanno accesso
+
+0:01:08.015,0:01:09.060
+al mercato globale,
+
+0:01:09.146,0:01:10.966
+fioriscono grandi idee.
+
+0:01:11.624,0:01:13.198
+Guardiamo ad alcuni esempi
+
+0:01:13.206,0:01:15.069
+su come i Bitcoin sono
+gia' usati tutt'oggi:
+
+0:01:15.201,0:01:16.895
+Puoi comprare
+video games,
+
+0:01:16.913,0:01:17.676
+regali,
+
+0:01:17.811,0:01:18.474
+libri,
+
+0:01:18.685,0:01:19.365
+server
+
+0:01:19.623,0:01:21.411
+e calze di alpaca.
+
+0:01:21.498,0:01:23.200
+Esistono diversi cambisti
+
+0:01:23.208,0:01:24.411
+dove puoi scambiare
+i tuoi Bitcoin
+
+0:01:24.427,0:01:24.990
+per dollari,
+
+0:01:24.997,0:01:25.466
+euro
+
+0:01:25.490,0:01:25.997
+e molto altro.
+
+0:01:26.295,0:01:27.394
+I Bitcoin sono
+un ottimo modo
+
+0:01:27.410,0:01:29.034
+con cui le piccole imprese
+e liberi professionisti
+
+0:01:29.050,0:01:30.146
+possono farsi notare.
+
+0:01:30.388,0:01:32.346
+Non costa nulla
+iniziare ad accettarli,
+
+0:01:32.378,0:01:33.713
+non ci sono costi
+di ritorno o tasse
+
+0:01:33.745,0:01:35.419
+e scoprirete altri affari
+
+0:01:35.420,0:01:36.774
+sul mercato Bitcoin.
+
+0:01:36.985,0:01:39.296
+Per i tuoi primi Bitcoin e
+altre informazioni, visita:
+
+0:01:39.312,0:01:41.335
+weusecoins.com e bitcoin.org
