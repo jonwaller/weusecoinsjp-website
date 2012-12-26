@@ -122,21 +122,23 @@ p {
 
 #menu li a {
   display: block;
+  padding-top:10px;
   height: 53px;
+  text-decoration: none;
 }
 
 #menu li span {
-  display: none;
+  text-decoration: none;
+  color:gray;
+  font-weight: bold;
 }
 
 #menu_whatis a {
-  background-image: url(gx/menu_whatis.png);
-  width: 67px;
+  width: 100px;
 }
 
 #menu_getstarted a {
-  background-image: url(gx/menu_getstarted.png);
-  width: 65px;
+  width: 100px;
 }
 
 #menu_security a {
@@ -145,13 +147,11 @@ p {
 }
 
 #menu_qna a {
-  background-image: url(gx/menu_qna.png);
-  width: 90px;
+  width: 100px;
 }
 
 #menu_merchants a {
-  background-image: url(gx/menu_merchants.png);
-  width: 93px;
+  width: 100px;
 }
 
 #menu_mining a {
