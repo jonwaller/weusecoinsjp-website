@@ -6,7 +6,7 @@ $(function(){
     template: function(i) {return '<div><a href="http://twitter.com/'+i["screen_name"]+'" class="user">@'+i["screen_name"]+'</a> <span class="time">'+i["tweet_relative_time"]+'</span></div><span class="message">'+i["text"]+'</span> ';}
   });
   stLight.options({
-    publisher:'ba14bff6-6b5a-4bef-a218-774fae33c140'
+    publisher:'8b294793-0d1f-46fb-b429-30f41189cc59' //info(at)weusecoins.jp
   });
 
   $(".newsbox .expand").click(function () {
